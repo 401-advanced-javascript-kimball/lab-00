@@ -22,7 +22,7 @@ describe('validator module performs basic validation of', () => {
   });
 
   it('numbers', () => {
-    expect(validator.isValid().toBeTruthy();
+    expect(validator.isValid().toBeTruthy());
   });
 
   it('arrays', () => {
